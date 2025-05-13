@@ -59,4 +59,5 @@ Donut Charts:
 Used for "Quantity by Category" and "Quantity by Payment Mode" to show proportional distribution.
 
 This dashboard enables quick and data-driven decision-making for sales, marketing, and inventory management. Created entirely using Excel with slicers for quarter-wise and state-wise filtering.
-![Dashboard Preview].(https://github.com/het2004/E-Commerce-sales-Dashboard/blob/main/e%20commerce%20sales%20dashboard.png).
+![image](https://github.com/user-attachments/assets/9542fbe9-e068-49aa-b98a-ea943a8a409c)
+
